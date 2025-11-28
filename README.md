@@ -307,10 +307,6 @@ if prediction == 1:
 else:
     st.write("- Maintain current engagement level")
 
-🏁 Conclusion
-
-This project delivers:
-
 ✔ Accurate churn prediction
 ✔ Real-time prediction UI
 ✔ Visual insights
